@@ -6,3 +6,19 @@ body {
     padding-top: 5em;
     padding-left: 10em;
 }
+
+.menu {
+    font-size: 10px;
+}
+
+.active {
+    color: green;
+}
+
+img {
+    width: 200px;
+}
+
+pre {
+    font-size: 11px;
+}
